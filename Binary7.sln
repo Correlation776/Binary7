@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary7", "Binary7\Binary7.csproj", "{21CF1FE8-46A4-4ADE-BBAD-AB80D527BB95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary7Tests", "Binary7Tests\Binary7Tests.csproj", "{85EBE76D-5F3F-4478-913F-14EE76DE80C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21CF1FE8-46A4-4ADE-BBAD-AB80D527BB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CF1FE8-46A4-4ADE-BBAD-AB80D527BB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CF1FE8-46A4-4ADE-BBAD-AB80D527BB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CF1FE8-46A4-4ADE-BBAD-AB80D527BB95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85EBE76D-5F3F-4478-913F-14EE76DE80C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85EBE76D-5F3F-4478-913F-14EE76DE80C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85EBE76D-5F3F-4478-913F-14EE76DE80C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85EBE76D-5F3F-4478-913F-14EE76DE80C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
